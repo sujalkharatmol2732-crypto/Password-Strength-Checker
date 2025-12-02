@@ -53,7 +53,7 @@ Perfect for cybersecurity students practicing password security assessment.
 
 ## Author
 Sujal Kharatmol - Cybersecurity Student & Bug Bounty Hunter ##Cybre Leelawat 
-[LinkedIn](www.linkedin.com/in/sujal-kharatmol-2b5497397) | [Medium](https://medium.com/@sujalkharatmol2732)
+[LinkedIn](https://www.linkedin.com/in/sujal-kharatmol-2b5497397/) | [Medium](https://medium.com/@sujalkharatmol2732)
 
 ---
 
